@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">A passionate Backend developer from El Salvador 🇸🇻</h3>
+<h3 align="center">A passionate developer from El Salvador 🇸🇻</h3>
 
 ###
 
